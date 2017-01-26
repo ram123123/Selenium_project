@@ -1,0 +1,26 @@
+
+
+
+
+
+<suite name="Suite"   parallel="tests">
+  
+  <test name="Test">
+    <classes>
+      <class name="testng.WEBtable"/>
+       <class name="testng.Webtables"/>
+      
+    </classes>
+  </test> 
+  
+  
+   <test name="Test123">
+    <classes>
+      <class name="samp.Webtable12"/>
+       
+      
+    </classes>
+  </test> 
+  
+</suite> 
+

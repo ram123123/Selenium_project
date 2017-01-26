@@ -1,0 +1,23 @@
+
+
+
+
+  
+<suite name="Suite1" >
+ 
+ <test name="Regression1" >
+  <classes>
+ 
+    <class name="testng.NewTest">
+      <methods>
+        <include name="f" />
+        <include name="hg" />
+      </methods>
+    </class>
+ 
+  </classes>
+</test>
+  
+</suite>
+
+
